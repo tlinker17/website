@@ -2882,7 +2882,9 @@
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
 	}
-
+img.logo{
+        margin-left: -150px;    
+    }
 /* One */
 
 	#one {
