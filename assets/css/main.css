@@ -1892,16 +1892,19 @@
 
 	header {
 		margin-bottom: 1em;
+        opacity:1.0;
 	}
 
 		header p {
 			display: block;
 			margin: 1em 0 0 0;
 			padding: 0 0 0.5em 0;
+            opacity:1.0;
 		}
 
 	footer {
 		margin-top: 2em;
+        opacity:1.0;
 	}
 
 	br.clear {
@@ -2873,7 +2876,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("http://www.pptbackgrounds.net/uploads/black-waves-powerpoint-backgrounds.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2883,7 +2886,7 @@
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("http://blogs-images.forbes.com/antonyleather/files/2014/09/b-3-1940x1294.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2892,7 +2895,7 @@
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("https://scontent-lga3-1.xx.fbcdn.net/hphotos-xlf1/t31.0-8/11958214_10207429833052881_680376751321763476_o.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
