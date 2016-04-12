@@ -2876,7 +2876,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("https://cloud.githubusercontent.com/assets/14044894/11611922/5c68324c-9bb2-11e5-9240-4bd687f5b9cb.png");
+		background: url("images/overlay.png"), url("http://costerconcepts.com/blog/images/intro-background.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
