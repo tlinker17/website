@@ -2876,7 +2876,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("http://freehdwallpaper.net/wp-content/uploads/2015/10/Cool-Abstract-Wallpapers-Red.jpg");
+		background: url("images/overlay.png"), url("http://costerconcepts.com/blog/images/intro-background.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
